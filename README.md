@@ -1,2 +1,2 @@
 # learn-fps
- Unity Learn's FPS Microgame
+ Unity Learn's FPS microgame
